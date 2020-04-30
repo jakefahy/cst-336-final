@@ -16,7 +16,7 @@
     "express-session": "^1.17.0",
     "hbs": "^4.0.6",
     "http-errors": "^1.7.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "middleware": "^1.0.0",
     "morgan": "^1.9.1",
     "mysql": "^2.17.1",
